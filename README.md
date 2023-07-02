@@ -1,4 +1,4 @@
-<h1>Shopping App</h1>
+<h1>Todo App (RTK-QUERy)</h1>
 
 <!-- <img src="./src/assets/image/screen (1).gif" alt="Netflix" /> -->
 
