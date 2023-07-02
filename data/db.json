@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "userId": 2,
+      "id": 40,
+      "title": "totam atque quo nesciunt",
+      "completed": true
+    },
+    {
+      "userId": 3,
+      "id": 41,
+      "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 42,
+      "title": "rerum perferendis error quia ut eveniet",
+      "completed": false
+    },
+    {
+      "userId": 3,
+      "id": 43,
+      "title": "tempore ut sint quis recusandae",
+      "completed": true
+    },
+    {
+      "userId": 1,
+      "title": "Learn anything you want",
+      "completed": false,
+      "id": 44
+    }
+  ]
+}
